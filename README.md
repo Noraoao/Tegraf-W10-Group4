@@ -12,9 +12,9 @@
 - ### BRIEF ALGORITHM EXPLANATION
   The algorithm uses Graph Coloring with the DSATUR (Degree of Saturation) heuristic and Backtracking to solve Sudoku puzzles. The idea is to represent the Sudoku board as a graph, where each of the 81 cells is a vertex. Two vertices are connected if their cells belong to the same row, column, or 3×3 box. The numbers 1–9 are treated as colors, and connected vertices cannot have the same color.
 
-The algorithm uses DSATUR to select which empty cell should be filled first. It prioritizes the vertex with the highest saturation degree, which means the vertex has the largest number of different colors among its neighboring vertices. If two vertices have the same saturation degree, it selects the one with more uncolored neighbors.
+  The algorithm uses DSATUR to select which empty cell should be filled first. It prioritizes the vertex with the highest saturation degree, which means the vertex has the largest number of different colors among its neighboring vertices. If two vertices have the same saturation degree, it selects the one with more uncolored neighbors.
 
-After selecting a vertex, Backtracking tries to assign a valid color from 1 to 9. If a color does not create a conflict, the algorithm continues to the next vertex. If no valid color is available, it goes back to the previous vertex, removes its previous assignment, and tries another color. This process continues until every cell is successfully colored, resulting in a valid Sudoku solution.
+  After selecting a vertex, Backtracking tries to assign a valid color from 1 to 9. If a color does not create a conflict, the algorithm continues to the next vertex. If no valid color is available, it goes back to the previous vertex, removes its previous assignment, and tries another color. This process continues until every cell is successfully colored, resulting in a valid Sudoku solution.
 
 - ### RUNNING THE CODE
   1. Open the file in your compiler
