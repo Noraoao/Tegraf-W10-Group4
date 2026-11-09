@@ -39,13 +39,13 @@
 The program also supports dynamic matrix sizes, allowing users to enter different numbers of sources and destinations without changing the code.
 
 - ### RUNNING THE CODE
-  i. Open the file in your C++ compiler.
-  ii. Compile and run the program.
-  iii. Enter the number of sources (M) and destinations (N).
-  iv. Enter the transportation cost matrix.
-  v. Enter the supply values for each source.
-  vi. Enter the demand values for each destination.
-  vii. The program displays the total transportation cost.
+  1. Open the file in your C++ compiler.
+  2. Compile and run the program.
+  3. Enter the number of sources (M) and destinations (N).
+  4. Enter the transportation cost matrix.
+  5. Enter the supply values for each source.
+  6. Enter the demand values for each destination.
+  7. The program displays the total transportation cost.
 
 - ### SAMPLE INPUTS
 
