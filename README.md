@@ -81,3 +81,4 @@ The program also supports dynamic matrix sizes, allowing users to enter differen
 ## AI USAGE DISCLOSURE
 
 - Coloring [DSATUR and Backtracking Algorithm]: https://claude.ai/share/399496ce-90cc-4c2f-a805-8dd08e689d61
+- rechecking and fixing: https://claude.ai/share/7ad2fe2f-d24c-43c4-b78e-1c28cae2e11c
