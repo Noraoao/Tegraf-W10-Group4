@@ -24,9 +24,14 @@
  
 - ### RESULT:
 
-  <img width="446" height="521" alt="image" src="https://github.com/user-attachments/assets/469b336c-5f8a-45a6-ab3e-b9e34e2d9630" />
+  - #### Input
+    
+    <img width="822" height="716" alt="image" src="https://github.com/user-attachments/assets/228d9a6d-62c4-4aad-a748-31654038e1ab" />
 
-  <img width="451" height="532" alt="image" src="https://github.com/user-attachments/assets/4b4a1281-c9bc-4a9c-9b31-b32908824337" />
+  - #### Output
+    
+    <img width="686" height="688" alt="image" src="https://github.com/user-attachments/assets/7894e8b2-f2b1-49cc-9b0c-b370247efdd4" />
+
 
 
 ## Matching: Algorithm
