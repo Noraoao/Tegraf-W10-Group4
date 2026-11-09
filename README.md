@@ -7,7 +7,6 @@
 |Safiya Nadira Az-zahra|5025251268|
 
 ## Week 10 Task 
----
 
 ## Coloring: DSATUR & Backtracking Algorithm
 - ### BRIEF ALGORITHM EXPLANATION
