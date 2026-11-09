@@ -17,8 +17,10 @@
   After selecting a vertex, Backtracking tries to assign a valid color from 1 to 9. If a color does not create a conflict, the algorithm continues to the next vertex. If no valid color is available, it goes back to the previous vertex, removes its previous assignment, and tries another color. This process continues until every cell is successfully colored, resulting in a valid Sudoku solution.
 
 - ### RUNNING THE CODE
-  1. Open the file in your compiler
-  2. Run it
+  ```bash
+  pip install flask
+  python sudoku_graph_coloring.py
+  ```
  
 - ### RESULT:
 
