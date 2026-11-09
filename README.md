@@ -7,8 +7,8 @@
 |Safiya Nadira Az-zahra|5025251268|
 
 ## Week 10 Task 
-
 ---
+
 ## Coloring: DSATUR & Backtracking Algorithm
 - ### BRIEF ALGORITHM EXPLANATION
   The algorithm uses Graph Coloring with the DSATUR (Degree of Saturation) heuristic and Backtracking to solve Sudoku puzzles. The idea is to represent the Sudoku board as a graph, where each of the 81 cells is a vertex. Two vertices are connected if their cells belong to the same row, column, or 3×3 box. The numbers 1–9 are treated as colors, and connected vertices cannot have the same color.
