@@ -42,4 +42,4 @@
 
 ## AI USAGE DISCLOSURE
 
-- Coloring [DSATUR and Backtracking Algorithm] = https://claude.ai/share/399496ce-90cc-4c2f-a805-8dd08e689d61
+- Coloring [DSATUR and Backtracking Algorithm]: https://claude.ai/share/399496ce-90cc-4c2f-a805-8dd08e689d61
