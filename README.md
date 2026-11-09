@@ -47,10 +47,29 @@ The program also supports dynamic matrix sizes, allowing users to enter differen
   6. Enter the demand values for each destination.
   7. The program displays the total transportation cost.
 
-- ### SAMPLE INPUTS
+- ### Input Test Case & Output
 
-    RESULT:
+```
+3 4
+19 30 50 10
+70 30 40 60
+40 8 70 20
+7 9 18
+5 8 7 14
+```
 
+- Table Visualization
+
+|   |D1 |D2 |D3 |D4 | S |
+|---|---|---|---|---|---|
+|S1|19|30|50|10|7|
+|S2|70|30|40|60|9|
+|S3|40|8|70|20|18|
+|D|5|8|7|14|
+
+- Output
+
+<img width="462" height="186" alt="image" src="https://github.com/user-attachments/assets/d4fa475f-3b8d-4941-811d-84a6db313663" />
 
 ## AI USAGE DISCLOSURE
 
