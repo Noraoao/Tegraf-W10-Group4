@@ -30,10 +30,22 @@
 ## Matching: Algorithm
 
 - ### BRIEF ALGORITHM EXPLANATION
+  The algorithm uses a Modified Least Cost Method with a Vogel's Approximation Method (VAM) approach to solve the Transportation Problem. The goal is to allocate goods from multiple sources to different destinations while minimizing the total transportation cost. The problem is represented using a cost matrix, where each cell represents the transportation cost from a source to a destination.
 
+  The algorithm first calculates the penalty for each available row and column by finding the difference between the two lowest transportation costs. It then selects the row or column with the highest penalty, prioritizing the one where choosing a more expensive alternative could result in a greater additional cost.
+
+  After selecting a row or column, the algorithm finds the cell with the lowest transportation cost and allocates the maximum possible amount based on the available supply and demand. The supply and demand values are updated after each allocation. This process continues until all possible allocations are completed, producing an initial feasible solution with its corresponding total transportation cost.
+
+The program also supports dynamic matrix sizes, allowing users to enter different numbers of sources and destinations without changing the code.
 
 - ### RUNNING THE CODE
-
+  i. Open the file in your C++ compiler.
+  ii. Compile and run the program.
+  iii. Enter the number of sources (M) and destinations (N).
+  iv. Enter the transportation cost matrix.
+  v. Enter the supply values for each source.
+  vi. Enter the demand values for each destination.
+  vii. The program displays the total transportation cost.
 
 - ### SAMPLE INPUTS
 
