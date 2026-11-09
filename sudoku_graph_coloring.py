@@ -7,10 +7,6 @@ Usage
 -----
     pip install flask                         # only needed for the web interface
     python sudoku_graph_coloring.py           # web interface at http://127.0.0.1:5000
-    python sudoku_graph_coloring.py --cli     # type the puzzle in the terminal
-    python sudoku_graph_coloring.py puzzle.txt  # solve a puzzle stored in a file
-    python sudoku_graph_coloring.py --demo    # solve the built-in Easy and Hard puzzles
-    python sudoku_graph_coloring.py --port 8000  # web interface on another port
 
 Modelling
 ---------
